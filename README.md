@@ -15,6 +15,6 @@
 [程式碼3：Word2Vec演算法產生文字雲](/03_Word2Vec.ipynb/)
 ## Results
 
-[書面報告](https://github.com/andy86715/PTT_Textmining/blob/master/final%20report/群組P期末書面格式.docx)
+[書面報告](https://github.com/andy86715/PTT_Textmining/blob/master/final%20report/群組P期末書面格式.pdf)
 
-[投影片簡報](https://github.com/andy86715/PTT_Textmining/blob/master/final%20report/文字探勘期末報告.pptx)
+[投影片簡報](https://github.com/andy86715/PTT_Textmining/blob/master/final%20report/文字探勘期末報告.pdf)
